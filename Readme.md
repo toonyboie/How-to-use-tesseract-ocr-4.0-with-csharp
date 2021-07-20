@@ -35,3 +35,4 @@ The ParseText function is thread-safe.
 
 # Copyright and license
 Code released under the MIT license.
+Cool
